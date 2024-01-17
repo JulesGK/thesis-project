@@ -1,3 +1,6 @@
+#This script is designed to be flexible, allowing us to easily switch between different metrics 
+#(e.g., CPU utilization, network data) and statistic types while minimizing hard-coded values.
+
 import csv
 import boto3
 import matplotlib.pyplot as plt
@@ -48,7 +51,7 @@ def plot_metric(file_paths, labels, graph_title, units=''):
 # Specify the metric and statistic type
 #metric = 'cpu_utilization'
 metric = 'ebs_read_bytes'
-#metric = 'ebs_read_bytes'
+#metric = 'ebs_write_bytes'
 statistic_types = ['maximum','minimum', 'average']
 
 # Use the current working directory
