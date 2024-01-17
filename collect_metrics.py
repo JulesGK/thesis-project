@@ -1,3 +1,9 @@
+""" This script uses the Boto3 library to interact with AWS services, 
+specifically Amazon CloudWatch and Amazon EC2, to collect and save 
+metric data for specified instances. The purpose is to gather metrics 
+such as CPU utilization, network in/out, and EBS (Elastic Block Store) 
+read/write bytes over a specified time range for each instance."""
+
 import boto3
 import csv
 from datetime import datetime, timedelta

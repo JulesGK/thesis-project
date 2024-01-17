@@ -1,5 +1,7 @@
-#This script is designed to be flexible, allowing us to easily switch between different metrics 
-#(e.g., CPU utilization, network data) and statistic types while minimizing hard-coded values.
+""" The following Python script is made to automate the plotting of several AWS CloudWatch metrics over time. 
+Because of the script's flexibility, we can quickly switch between various metrics 
+(such CPU utilization and network data) while reducing the amount of hard-coded variables. """
+
 
 import csv
 import boto3
