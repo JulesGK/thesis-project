@@ -1,0 +1,29 @@
+.main-hero {
+    position: absolute;
+    width: 100%;
+    top: 30vh;
+    color: var(--white-color);
+}
+  
+.main-hero .main-hero-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+  
+.main-hero .main-hero-heading {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+}
+  
+.main-hero .main-hero-sub-heading {
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+    font-weight: 400;
+}
+  
+.main-hero .main-hero-cta-btn {
+    padding: 1rem 2rem;
+    font-weight: 700;
+}

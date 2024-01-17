@@ -1,0 +1,17 @@
+------------------------------------------------------------
+Client connecting to 51.20.63.134, TCP port 5001
+TCP window size: 85.0 KByte (default)
+------------------------------------------------------------
+[  1] local 172.31.26.94 port 39302 connected with 51.20.63.134 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-1.0000 sec   464 MBytes  3.89 Gbits/sec
+[  1] 1.0000-2.0000 sec   460 MBytes  3.86 Gbits/sec
+[  1] 2.0000-3.0000 sec   467 MBytes  3.92 Gbits/sec
+[  1] 3.0000-4.0000 sec   436 MBytes  3.66 Gbits/sec
+[  1] 4.0000-5.0000 sec   456 MBytes  3.83 Gbits/sec
+[  1] 5.0000-6.0000 sec   464 MBytes  3.89 Gbits/sec
+[  1] 6.0000-7.0000 sec   478 MBytes  4.01 Gbits/sec
+[  1] 7.0000-8.0000 sec   508 MBytes  4.26 Gbits/sec
+[  1] 8.0000-9.0000 sec   492 MBytes  4.13 Gbits/sec
+[  1] 9.0000-10.0000 sec   474 MBytes  3.98 Gbits/sec
+[  1] 0.0000-10.0080 sec  4.59 GBytes  3.94 Gbits/sec

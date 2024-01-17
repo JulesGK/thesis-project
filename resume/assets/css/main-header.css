@@ -1,0 +1,35 @@
+.main-header {
+    min-height: 100vh;
+    clip-path: polygon(0 0, 100% 0, 100% 50%, 0 70%);
+    background-color: var(--success-color);
+}
+  
+.main-header .main-nav {
+    padding: 2rem 0;
+}
+  
+.main-header .main-nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+.main-header .main-nav .main-nav-logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--white-color);
+}
+
+.main-header .main-nav .main-nav-items {
+    display: flex;
+    list-style: none;
+}
+
+.main-header .main-nav .main-nav-item + .main-nav-item {
+    margin-left: 1rem;
+}
+
+.main-header .main-nav .main-nav-link {
+    color: var(--white-color);
+}
+  

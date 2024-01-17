@@ -1,0 +1,98 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size:  128 KByte (default)
+------------------------------------------------------------
+[  1] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 56150
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0060 sec  5.07 GBytes  4.35 Gbits/sec
+[  2] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 36102
+[ ID] Interval       Transfer     Bandwidth
+[  2] 0.0000-10.0062 sec  4.74 GBytes  4.07 Gbits/sec
+[  3] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 44942
+[ ID] Interval       Transfer     Bandwidth
+[  3] 0.0000-10.0048 sec  4.78 GBytes  4.10 Gbits/sec
+[  4] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 45816
+[ ID] Interval       Transfer     Bandwidth
+[  4] 0.0000-10.0048 sec  5.04 GBytes  4.32 Gbits/sec
+[  5] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 51012
+[ ID] Interval       Transfer     Bandwidth
+[  5] 0.0000-10.0062 sec  4.86 GBytes  4.17 Gbits/sec
+[  6] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 42058
+[ ID] Interval       Transfer     Bandwidth
+[  6] 0.0000-10.0074 sec  4.98 GBytes  4.27 Gbits/sec
+[  7] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 48086
+[ ID] Interval       Transfer     Bandwidth
+[  7] 0.0000-10.0109 sec  4.59 GBytes  3.94 Gbits/sec
+[  8] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 37750
+[ ID] Interval       Transfer     Bandwidth
+[  8] 0.0000-10.0065 sec  4.97 GBytes  4.26 Gbits/sec
+[  9] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 59064
+[ ID] Interval       Transfer     Bandwidth
+[  9] 0.0000-10.0051 sec  5.01 GBytes  4.30 Gbits/sec
+[ 10] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 53010
+[ ID] Interval       Transfer     Bandwidth
+[ 10] 0.0000-10.0057 sec  4.80 GBytes  4.12 Gbits/sec
+[ 11] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 43314
+[ ID] Interval       Transfer     Bandwidth
+[ 11] 0.0000-20.0068 sec  9.70 GBytes  4.17 Gbits/sec
+[ 12] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 45740
+[ ID] Interval       Transfer     Bandwidth
+[ 12] 0.0000-20.0106 sec  10.3 GBytes  4.42 Gbits/sec
+[ 13] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 56058
+[ ID] Interval       Transfer     Bandwidth
+[ 13] 0.0000-20.0053 sec  9.70 GBytes  4.16 Gbits/sec
+[ 14] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 56630
+[ ID] Interval       Transfer     Bandwidth
+[ 14] 0.0000-20.0071 sec  9.79 GBytes  4.20 Gbits/sec
+[ 15] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 57612
+[ ID] Interval       Transfer     Bandwidth
+[ 15] 0.0000-20.0075 sec  9.59 GBytes  4.12 Gbits/sec
+[ 16] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 56464
+[ ID] Interval       Transfer     Bandwidth
+[ 16] 0.0000-20.0069 sec  9.13 GBytes  3.92 Gbits/sec
+[ 17] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 60332
+[ ID] Interval       Transfer     Bandwidth
+[ 17] 0.0000-20.0105 sec  9.92 GBytes  4.26 Gbits/sec
+[ 18] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 37350
+[ ID] Interval       Transfer     Bandwidth
+[ 18] 0.0000-20.0056 sec  9.96 GBytes  4.27 Gbits/sec
+[ 19] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 44172
+[ ID] Interval       Transfer     Bandwidth
+[ 19] 0.0000-20.0059 sec  8.69 GBytes  3.73 Gbits/sec
+[ 20] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 42744
+[ ID] Interval       Transfer     Bandwidth
+[ 20] 0.0000-20.0089 sec  9.95 GBytes  4.27 Gbits/sec
+[ 21] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 60908
+[ ID] Interval       Transfer     Bandwidth
+[ 21] 0.0000-30.0065 sec  15.0 GBytes  4.28 Gbits/sec
+[ 22] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 39190
+[ ID] Interval       Transfer     Bandwidth
+[ 22] 0.0000-30.0102 sec  15.2 GBytes  4.34 Gbits/sec
+[ 23] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 45906
+[ ID] Interval       Transfer     Bandwidth
+[ 23] 0.0000-30.0074 sec  14.6 GBytes  4.19 Gbits/sec
+[ 24] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 59196
+[ ID] Interval       Transfer     Bandwidth
+[ 24] 0.0000-30.0058 sec  13.2 GBytes  3.77 Gbits/sec
+[ 25] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 48070
+[ ID] Interval       Transfer     Bandwidth
+[ 25] 0.0000-30.3760 sec  1.87 GBytes   527 Mbits/sec
+[ 26] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 56064
+[ ID] Interval       Transfer     Bandwidth
+[ 26] 0.0000-30.3753 sec  1.13 GBytes   319 Mbits/sec
+[ 27] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 35292
+[ ID] Interval       Transfer     Bandwidth
+[ 27] 0.0000-30.4679 sec   294 MBytes  81.0 Mbits/sec
+[ 28] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 57280
+[ ID] Interval       Transfer     Bandwidth
+[ 28] 0.0000-30.4084 sec   287 MBytes  79.1 Mbits/sec
+[ 29] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 48344
+[ ID] Interval       Transfer     Bandwidth
+[ 29] 0.0000-30.5211 sec   296 MBytes  81.3 Mbits/sec
+[ 30] local 172.31.26.94 port 5001 connected with 51.20.63.134 port 37774
+[ ID] Interval       Transfer     Bandwidth
+[ 30] 0.0000-30.4205 sec   295 MBytes  81.3 Mbits/sec
+(null)local 172.31.26.94 port 5001 connected with 118.194.251.63 port 31748
+WARN: ignore --txstart-time because client didn't provide valid start timestamp within 3600 seconds of now
+WARN: ignore --trip-times because client didn't provide valid start timestamp within 600 seconds of now
+[ 31] local 172.31.26.94%ens5 port 5001 connected with 118.194.251.63 port 35748 (isoch) (reverse) (sock=4) (peer 14393.12337.12851-master)

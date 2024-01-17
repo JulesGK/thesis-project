@@ -1,0 +1,263 @@
+.create-resume-section {
+    position: relative;
+    margin-top: -80vh;
+}
+
+.create-resume-section .personal-details-form,
+.create-resume-section .experiences-form,
+.create-resume-section .ready-to-download-form {
+    width: 500px;
+    margin: auto;
+    padding: 3rem 2rem;
+    background-color: var(--white-color);
+    border-radius: .8rem;
+    box-shadow: 0 15px 35px rgba(50,50,93,0.1), 0 5px 15px rgba(0,0,0,0.07);
+    margin-bottom: 2rem;
+}
+
+
+.create-resume-section .create-resume-step-heading {
+    font-size: 1.75rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: var(--white-color);
+}
+ 
+.create-resume-section .personal-details-form .personal-details-additionals-toggle-btn,
+.create-resume-section .experiences-form .add-another-work-experience-btn,
+.create-resume-section .experiences-form .add-another-edu-qualifications-btn,
+.create-resume-section .experiences-form .add-another-skill-btn {
+    width: 100%;
+    background-color: var(--body-color);
+    color: var(--black-color);
+    padding: .8rem 0;
+    margin: .5rem 0 1rem;
+    cursor: pointer;
+}
+  
+.create-resume-section .personal-details-form .personal-details-img-preview-wrapper {
+    margin-top: .5rem;
+}
+  
+.create-resume-section .personal-details-form .personal-details-img-preview {
+    max-width: 100%;
+    height: auto;
+}
+
+.create-resume-section .personal-details-form .personal-details-main-btn-wrapper,
+.create-resume-section .experiences-form .experiences-main-btn-wrapper,
+.create-resume-section .ready-to-download-form .ready-to-download-main-btn-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.create-resume-section .personal-details-form .personal-details-next-step-btn,
+.create-resume-section .experiences-form .experiences-prev-step-btn, 
+.create-resume-section .experiences-form .experiences-next-step-btn, 
+.create-resume-section .ready-to-download-form .ready-to-download-prev-step-btn {
+    padding: .5rem 1.5rem;
+    cursor: pointer;
+}
+  
+.create-resume-section .experiences-form .work-experience-list-heading,
+.create-resume-section .experiences-form .edu-qualifications-list-heading,
+.create-resume-section .experiences-form .skills-list-heading {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.create-resume-section .experiences-form .work-experience-list,
+.create-resume-section .experiences-form .edu-qualifications-list,
+.create-resume-section .experiences-form .skills-list {
+    list-style: none;
+}
+  
+.create-resume-section .experiences-form .work-experience-list {
+    counter-reset: work-experience-counter;
+}
+
+.create-resume-section .experiences-form .edu-qualifications-list {
+    counter-reset: edu-qualifications-counter;
+}
+
+.create-resume-section .experiences-form .skills-list {
+    counter-reset: skills-counter;
+}
+
+.create-resume-section .experiences-form .work-experience-list-item,
+.create-resume-section .experiences-form .edu-qualifications-list-item,
+.create-resume-section .experiences-form .skills-list-item {
+    position: relative;
+}
+  
+.create-resume-section .experiences-form .work-experience-list-item::before,
+.create-resume-section .experiences-form .edu-qualifications-list-item::before,
+.create-resume-section .experiences-form .skills-list-item::before {
+    position: absolute;
+    top: -.5rem;
+    left: -1.5rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    border-radius: 50%;
+    font-size: .75rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--warning-color);
+    color: var(--white-color);
+}
+  
+.create-resume-section .experiences-form .work-experience-list-item-delete-icon,
+.create-resume-section .experiences-form .edu-qualifications-list-item-delete-icon,
+.create-resume-section .experiences-form .skills-list-item-delete-icon {
+    position: absolute;
+    top: -.5rem;
+    right: -1.5rem;
+    font-size: 1.25rem;
+    cursor: pointer;
+}
+
+.create-resume-section .experiences-form .work-experience-list-item::before {
+    counter-increment: work-experience-counter;
+    content: counter(work-experience-counter);
+}
+
+.create-resume-section .experiences-form .edu-qualifications-list-item::before {
+    counter-increment: edu-qualifications-counter;
+    content: counter(edu-qualifications-counter);
+}
+  
+.create-resume-section .experiences-form .skills-list-item::before {
+    counter-increment: skills-counter;
+    content: counter(skills-counter);
+}
+
+.create-resume-section .ready-to-download-form {
+    width: 100%;
+}
+
+.create-resume-section .download-now-btn-wrapper {
+    text-align: center;
+}
+
+.create-resume-section .download-now-btn {
+    font-size: 1.25rem;
+    padding: 1rem 3rem;
+}
+
+.create-resume-section .ready-to-download-form .resume-preview-wrapper-outer {
+    margin: 2rem 0;
+    padding-bottom: 1rem;
+    overflow-x: auto;
+}
+
+.create-resume-section .ready-to-download-form .resume-preview-wrapper {
+    width: 1000px;
+    margin: auto;
+    border: 1px solid #ced4da;
+    position: relative;
+}
+
+.create-resume-section .ready-to-download-form .resume-preview-header {
+    position: absolute;
+    width: calc(100% - 2rem);
+    height: 10rem;
+    background-color: var(--white-color);
+    border: 2px solid var(--black-color);
+    top: 1rem;
+    left: 1rem;
+    display: flex;
+}
+
+.create-resume-section .ready-to-download-form .resume-preview-header-img {
+    flex-basis: 20%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.create-resume-section .ready-to-download-form .resume-preview-full-name {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    flex-basis: 80%;
+    line-height: 10rem;
+    text-align: center;
+    letter-spacing: .125rem;
+}
+
+.create-resume-section .ready-to-download-form .resume-preview-main {
+    display: flex;
+}
+
+.create-resume-section .ready-to-download-form .resume-preview-main-left {
+    flex-basis: 30%;
+    background-color: #e9e9e9;
+    padding: 12rem 1rem 1rem 1rem;
+}
+  
+.create-resume-section .ready-to-download-form .resume-preview-personal-heading,
+.create-resume-section .ready-to-download-form .resume-preview-work-experience-heading,
+.create-resume-section .ready-to-download-form .resume-preview-edu-qualifications-heading,
+.create-resume-section .ready-to-download-form .resume-preview-skills-heading {
+letter-spacing: .25rem;
+margin-bottom: 1rem;
+}
+
+.create-resume-section .ready-to-download-form .resume-preview-main-right {
+    flex-basis: 70%;
+    padding: 12rem 1rem 1rem 1rem;
+}
+
+.create-resume-section .ready-to-download-form .resume-preview-personal-info-list {
+    list-style: none;
+}
+
+.create-resume-section .ready-to-download-form .resume-preview-personal-info-item {
+    margin: .25rem 0;
+}
+
+.create-resume-section .ready-to-download-form .resume-preview-personal-info-item h6 {
+    font-weight: 500;
+    margin-bottom: .25rem;
+}
+
+.create-resume-section .ready-to-download-form .resume-preview-work-experience-list,
+.create-resume-section .ready-to-download-form .resume-preview-edu-qualifications-list,
+.create-resume-section .ready-to-download-form .resume-preview-skills-list {
+    border-bottom: 1px solid #ced4da;
+    margin-bottom: 1.5rem;
+}
+
+.create-resume-section .ready-to-download-form .work-experience-preview-item,
+.create-resume-section .ready-to-download-form .edu-qualifications-preview-item,
+.create-resume-section .ready-to-download-form .skills-preview-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: .5rem 0;
+}
+
+.create-resume-section .ready-to-download-form .work-experience-preview-item h6,
+.create-resume-section .ready-to-download-form .edu-qualifications-preview-item h6 {
+    font-weight: 700;
+}
+
+.create-resume-section .ready-to-download-form .work-experience-preview-item-job-title,
+.create-resume-section .ready-to-download-form .edu-qualifications-preview-item-degree {
+    font-weight: 700;
+}
+
+.create-resume-section .ready-to-download-form .work-experience-preview-item-desc,
+.create-resume-section .ready-to-download-form .edu-qualifications-preview-desc {
+    margin-top: .5rem;
+}
+
+@media screen and (max-width: 576px) {
+    .create-resume-section .personal-details-form,
+    .create-resume-section .experiences-form,
+    .create-resume-section .ready-to-download-form {
+        width: 300px;
+        padding: 2rem 1rem;
+    } 
+}

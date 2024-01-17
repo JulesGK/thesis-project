@@ -1,0 +1,460 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size:  128 KByte (default)
+------------------------------------------------------------
+[  1] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45810
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-20.0063 sec  9.90 GBytes  4.25 Gbits/sec
+[  2] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36326
+[ ID] Interval       Transfer     Bandwidth
+[  2] 0.0000-20.0070 sec  9.78 GBytes  4.20 Gbits/sec
+[  3] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 41884
+[ ID] Interval       Transfer     Bandwidth
+[  3] 0.0000-20.0276 sec  8.84 GBytes  3.79 Gbits/sec
+[  4] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45058
+[  5] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45080
+[  6] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45160
+[  7] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45056
+[  8] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45184
+[ 10] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45040
+[ 11] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45096
+[ 13] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45144
+[ 15] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45182
+[ 17] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45218
+[ 19] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45176
+[ 21] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45214
+[ 23] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45110
+[ 25] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45274
+[ 27] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45286
+[ 29] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45304
+[ 31] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45324
+[ 33] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45338
+[ 35] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45348
+[ 37] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45378
+[  9] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45118
+[ 12] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45042
+[ 16] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45198
+[ 20] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45206
+[ 24] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45258
+[ 28] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45302
+[ 32] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45326
+[ 36] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45364
+[ 39] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45392
+[ 41] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45404
+[ 43] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45422
+[ 14] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45136
+[ 22] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45232
+[ 30] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45320
+[ 38] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45382
+[ 40] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45402
+[ 18] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45132
+[ 34] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45342
+[ 42] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45410
+[ 26] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 45242
+[ ID] Interval       Transfer     Bandwidth
+[ 35] 0.0000-2.0109 sec  23.5 MBytes  98.0 Mbits/sec
+[ 17] 0.0000-2.0065 sec  16.8 MBytes  70.0 Mbits/sec
+[ 43] 0.0000-2.0015 sec  35.5 MBytes   149 Mbits/sec
+[ 28] 0.0000-2.0165 sec  24.8 MBytes   103 Mbits/sec
+[ 32] 0.0000-2.0161 sec  24.1 MBytes   100 Mbits/sec
+[ 34] 0.0000-2.0025 sec  32.5 MBytes   136 Mbits/sec
+[ 40] 0.0000-2.0085 sec  25.4 MBytes   106 Mbits/sec
+[  5] 0.0000-2.0331 sec  30.0 MBytes   124 Mbits/sec
+[ 25] 0.0000-2.0253 sec  29.3 MBytes   121 Mbits/sec
+[ 16] 0.0000-2.0276 sec  37.6 MBytes   156 Mbits/sec
+[ 14] 0.0000-2.0334 sec  28.5 MBytes   118 Mbits/sec
+[ 29] 0.0000-2.0233 sec  22.1 MBytes  91.7 Mbits/sec
+[ 39] 0.0000-2.0303 sec  23.8 MBytes  98.1 Mbits/sec
+[  6] 0.0000-2.0313 sec  24.9 MBytes   103 Mbits/sec
+[ 26] 0.0000-2.0248 sec  23.0 MBytes  95.3 Mbits/sec
+[ 36] 0.0000-2.0411 sec  24.4 MBytes   100 Mbits/sec
+[ 38] 0.0000-2.0471 sec  37.9 MBytes   155 Mbits/sec
+[ 13] 0.0000-2.0464 sec  20.1 MBytes  82.5 Mbits/sec
+[ 12] 0.0000-2.0453 sec  24.0 MBytes  98.4 Mbits/sec
+[ 18] 0.0000-2.0478 sec  26.6 MBytes   109 Mbits/sec
+[ 19] 0.0000-2.0435 sec  19.3 MBytes  79.0 Mbits/sec
+[ 10] 0.0000-2.0496 sec  20.7 MBytes  84.7 Mbits/sec
+[ 27] 0.0000-2.0343 sec  20.6 MBytes  84.9 Mbits/sec
+[ 22] 0.0000-2.0349 sec  25.0 MBytes   103 Mbits/sec
+[ 11] 0.0000-2.0393 sec  30.6 MBytes   126 Mbits/sec
+[  9] 0.0000-2.0455 sec  31.3 MBytes   128 Mbits/sec
+[ 31] 0.0000-2.0359 sec  31.5 MBytes   130 Mbits/sec
+[ 21] 0.0000-2.0472 sec  28.6 MBytes   117 Mbits/sec
+[  7] 0.0000-2.0586 sec  24.0 MBytes  97.8 Mbits/sec
+[ 23] 0.0000-2.0639 sec  17.5 MBytes  71.1 Mbits/sec
+[ 15] 0.0000-2.0604 sec  28.3 MBytes   115 Mbits/sec
+[  4] 0.0000-2.0765 sec  33.6 MBytes   136 Mbits/sec
+[ 33] 0.0000-2.0561 sec  32.0 MBytes   131 Mbits/sec
+[ 24] 0.0000-2.0532 sec  22.9 MBytes  93.5 Mbits/sec
+[ 37] 0.0000-2.0684 sec  28.9 MBytes   117 Mbits/sec
+[ 41] 0.0000-2.0583 sec  18.3 MBytes  74.4 Mbits/sec
+[  8] 0.0000-2.1145 sec  41.6 MBytes   165 Mbits/sec
+[ 30] 0.0000-2.1050 sec  17.7 MBytes  70.4 Mbits/sec
+[ 20] 0.0000-2.1587 sec  23.9 MBytes  92.8 Mbits/sec
+[ 42] 0.0000-2.1891 sec  30.6 MBytes   117 Mbits/sec
+[SUM] 0.0000-2.2156 sec  1.04 GBytes  4.02 Gbits/sec
+[ 44] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 57976
+[ ID] Interval       Transfer     Bandwidth
+[ 44] 0.0000-20.0105 sec  8.66 GBytes  3.72 Gbits/sec
+[ 45] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 41840
+[ ID] Interval       Transfer     Bandwidth
+[ 45] 0.0000-20.0070 sec  9.51 GBytes  4.08 Gbits/sec
+[ 46] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36492
+[ 47] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36476
+[ 49] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36512
+[ 51] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36520
+[ 53] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36470
+[ 55] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36600
+[ 57] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36584
+[ 58] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36576
+[ 60] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36474
+[ 62] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36636
+[ 64] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36654
+[ 50] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36504
+[ 54] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36558
+[ 59] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36530
+[ 63] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36638
+[ 52] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36508
+[ 56] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36550
+[ 61] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36610
+[ 48] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36464
+[ 65] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36630
+[ 67] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36682
+[ 68] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36538
+[ 66] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36670
+[ 69] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36624
+[ 71] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36690
+[ 73] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36706
+[ 74] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36716
+[ 70] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36564
+[ 72] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36712
+[ 75] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36720
+[ 76] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36734
+[ 77] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36748
+[ 78] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36738
+[ 79] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36756
+[ 80] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36764
+[ 81] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36770
+[ 82] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36776
+[ 84] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36798
+[ 83] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36792
+[ 85] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36814
+[ ID] Interval       Transfer     Bandwidth
+[ 72] 0.0000-1.9579 sec  31.0 MBytes   133 Mbits/sec
+[ 56] 0.0000-2.0051 sec  28.9 MBytes   121 Mbits/sec
+[ 61] 0.0000-2.0063 sec  37.0 MBytes   155 Mbits/sec
+[ 85] 0.0000-1.8675 sec  23.3 MBytes   104 Mbits/sec
+[ 79] 0.0000-1.9351 sec  18.4 MBytes  79.7 Mbits/sec
+[ 62] 0.0000-2.0099 sec  19.4 MBytes  80.9 Mbits/sec
+[ 59] 0.0000-2.0218 sec  23.6 MBytes  98.0 Mbits/sec
+[ 63] 0.0000-2.0162 sec  53.6 MBytes   223 Mbits/sec
+[ 68] 0.0000-1.9828 sec  25.9 MBytes   109 Mbits/sec
+[ 52] 0.0000-2.0300 sec  35.5 MBytes   147 Mbits/sec
+[ 51] 0.0000-2.0260 sec  23.4 MBytes  96.9 Mbits/sec
+[ 66] 0.0000-2.0299 sec  48.9 MBytes   202 Mbits/sec
+[ 64] 0.0000-2.0211 sec  26.9 MBytes   112 Mbits/sec
+[ 54] 0.0000-2.0462 sec  30.4 MBytes   125 Mbits/sec
+[ 65] 0.0000-2.0294 sec  18.9 MBytes  78.0 Mbits/sec
+[ 49] 0.0000-2.0431 sec  26.1 MBytes   107 Mbits/sec
+[ 53] 0.0000-2.0422 sec  23.1 MBytes  95.0 Mbits/sec
+[ 46] 0.0000-2.0578 sec  53.3 MBytes   217 Mbits/sec
+[ 73] 0.0000-1.9989 sec  22.5 MBytes  94.4 Mbits/sec
+[ 84] 0.0000-1.9055 sec  22.5 MBytes  99.1 Mbits/sec
+[ 81] 0.0000-1.9321 sec  33.3 MBytes   144 Mbits/sec
+[ 77] 0.0000-1.9675 sec  16.8 MBytes  71.4 Mbits/sec
+[ 75] 0.0000-1.9800 sec  38.1 MBytes   162 Mbits/sec
+[ 57] 0.0000-2.0342 sec  17.6 MBytes  72.5 Mbits/sec
+[ 55] 0.0000-2.0315 sec  27.8 MBytes   115 Mbits/sec
+[ 48] 0.0000-2.0400 sec  33.0 MBytes   136 Mbits/sec
+[ 82] 0.0000-1.9171 sec  33.6 MBytes   147 Mbits/sec
+[ 69] 0.0000-2.0023 sec  23.6 MBytes  99.0 Mbits/sec
+[ 47] 0.0000-2.0444 sec  32.3 MBytes   132 Mbits/sec
+[ 50] 0.0000-2.0547 sec  36.9 MBytes   151 Mbits/sec
+[ 67] 0.0000-2.0758 sec  19.0 MBytes  76.8 Mbits/sec
+[ 60] 0.0000-2.1033 sec  28.3 MBytes   113 Mbits/sec
+[ 58] 0.0000-2.0944 sec  40.6 MBytes   163 Mbits/sec
+[ 76] 0.0000-2.0467 sec  20.9 MBytes  85.6 Mbits/sec
+[ 83] 0.0000-2.0001 sec  20.6 MBytes  86.5 Mbits/sec
+[ 71] 0.0000-2.1413 sec  12.9 MBytes  50.5 Mbits/sec
+[ 74] 0.0000-2.1287 sec  30.8 MBytes   121 Mbits/sec
+[ 80] 0.0000-2.0780 sec  20.4 MBytes  82.3 Mbits/sec
+[ 70] 0.0000-2.1614 sec  33.6 MBytes   131 Mbits/sec
+[ 78] 0.0000-2.1254 sec  15.1 MBytes  59.7 Mbits/sec
+[SUM] 0.0000-2.2131 sec  1.10 GBytes  4.27 Gbits/sec
+[ 86] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 53310
+[ ID] Interval       Transfer     Bandwidth
+[ 86] 0.0000-20.0057 sec  9.89 GBytes  4.25 Gbits/sec
+[ 87] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 53550
+[ ID] Interval       Transfer     Bandwidth
+[ 87] 0.0000-20.0042 sec  9.44 GBytes  4.05 Gbits/sec
+[ 88] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33788
+[ 89] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33760
+[ 91] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33802
+[ 93] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33824
+[ 95] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33840
+[ 96] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33846
+[ 98] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33894
+[ 90] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33758
+[ 94] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33748
+[ 97] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33862
+[ 92] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33812
+[ 99] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33878
+[101] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33776
+[103] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33934
+[105] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33914
+[100] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33868
+[104] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33906
+[106] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33918
+[107] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33940
+[102] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33908
+[108] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33942
+[109] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33952
+[110] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33956
+[112] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33980
+[114] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33988
+[116] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33996
+[111] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33964
+[115] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33998
+[113] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33992
+[117] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 34006
+[118] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 34008
+[119] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 34024
+[121] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 34034
+[123] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 34042
+[120] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 34032
+[122] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 34050
+[124] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 34052
+[126] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 34070
+[127] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 34072
+[125] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 34060
+[ ID] Interval       Transfer     Bandwidth
+[ 93] 0.0000-2.0121 sec  35.5 MBytes   148 Mbits/sec
+[110] 0.0000-1.9569 sec  27.5 MBytes   118 Mbits/sec
+[113] 0.0000-1.9575 sec  16.5 MBytes  70.7 Mbits/sec
+[102] 0.0000-1.9993 sec  23.5 MBytes  98.6 Mbits/sec
+[122] 0.0000-1.9106 sec  26.0 MBytes   114 Mbits/sec
+[119] 0.0000-1.9091 sec  28.4 MBytes   125 Mbits/sec
+[111] 0.0000-1.9602 sec  27.1 MBytes   116 Mbits/sec
+[106] 0.0000-2.0032 sec  35.4 MBytes   148 Mbits/sec
+[107] 0.0000-2.0026 sec  29.1 MBytes   122 Mbits/sec
+[100] 0.0000-2.0090 sec  11.8 MBytes  49.1 Mbits/sec
+[126] 0.0000-1.8988 sec  22.8 MBytes   101 Mbits/sec
+[108] 0.0000-2.0132 sec  22.5 MBytes  93.8 Mbits/sec
+[104] 0.0000-2.0233 sec  29.6 MBytes   123 Mbits/sec
+[117] 0.0000-1.9460 sec  31.0 MBytes   134 Mbits/sec
+[114] 0.0000-1.9816 sec  21.1 MBytes  89.4 Mbits/sec
+[ 99] 0.0000-2.0320 sec  30.0 MBytes   124 Mbits/sec
+[112] 0.0000-1.9846 sec  15.8 MBytes  66.6 Mbits/sec
+[ 96] 0.0000-2.0404 sec  26.6 MBytes   109 Mbits/sec
+[ 97] 0.0000-2.0363 sec  14.1 MBytes  58.2 Mbits/sec
+[ 90] 0.0000-2.0519 sec  33.4 MBytes   136 Mbits/sec
+[124] 0.0000-1.9154 sec  21.4 MBytes  93.6 Mbits/sec
+[127] 0.0000-1.9152 sec  38.1 MBytes   167 Mbits/sec
+[120] 0.0000-1.9200 sec  34.1 MBytes   149 Mbits/sec
+[118] 0.0000-1.9478 sec  15.3 MBytes  65.7 Mbits/sec
+[ 95] 0.0000-2.0430 sec  37.1 MBytes   152 Mbits/sec
+[ 91] 0.0000-2.0521 sec  39.4 MBytes   161 Mbits/sec
+[121] 0.0000-1.9169 sec  14.8 MBytes  64.9 Mbits/sec
+[ 94] 0.0000-2.0379 sec  25.8 MBytes   106 Mbits/sec
+[101] 0.0000-2.0368 sec  28.8 MBytes   118 Mbits/sec
+[103] 0.0000-2.0402 sec  26.6 MBytes   109 Mbits/sec
+[ 89] 0.0000-2.0624 sec  36.6 MBytes   149 Mbits/sec
+[123] 0.0000-1.9348 sec  19.1 MBytes  82.9 Mbits/sec
+[116] 0.0000-1.9927 sec  19.4 MBytes  81.6 Mbits/sec
+[105] 0.0000-2.0341 sec  27.5 MBytes   113 Mbits/sec
+[ 88] 0.0000-2.0693 sec  41.6 MBytes   168 Mbits/sec
+[125] 0.0000-1.9293 sec  31.9 MBytes   139 Mbits/sec
+[109] 0.0000-1.9995 sec  27.1 MBytes   114 Mbits/sec
+[ 98] 0.0000-2.0794 sec  29.1 MBytes   117 Mbits/sec
+[ 92] 0.0000-2.1275 sec  23.4 MBytes  92.2 Mbits/sec
+[115] 0.0000-2.2435 sec  18.5 MBytes  69.3 Mbits/sec
+[SUM] 0.0000-2.3153 sec  1.04 GBytes  3.85 Gbits/sec
+[128] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60462
+[129] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60470
+[130] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60484
+[131] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60512
+[133] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60522
+[135] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60508
+[137] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60532
+[139] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60584
+[141] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60534
+[143] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60610
+[145] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60634
+[147] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60622
+[149] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60652
+[151] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60646
+[153] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60702
+[155] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60696
+[157] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60724
+[159] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60742
+[132] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60482
+[136] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60498
+[140] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60576
+[144] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60598
+[148] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60660
+[152] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60680
+[156] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60720
+[134] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60448
+[142] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60558
+[150] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60674
+[158] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60726
+[138] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60562
+[146] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60620
+[154] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60708
+[160] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60758
+[161] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60748
+[162] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60762
+[163] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60768
+[164] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60780
+[165] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60782
+[167] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60802
+[166] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60792
+[ ID] Interval       Transfer     Bandwidth
+[132] 0.0000-20.0090 sec   284 MBytes   119 Mbits/sec
+[147] 0.0000-20.0195 sec   306 MBytes   128 Mbits/sec
+[135] 0.0000-20.0299 sec   304 MBytes   127 Mbits/sec
+[143] 0.0000-20.0202 sec   285 MBytes   119 Mbits/sec
+[133] 0.0000-20.0256 sec   223 MBytes  93.5 Mbits/sec
+[159] 0.0000-20.0169 sec   272 MBytes   114 Mbits/sec
+[140] 0.0000-20.0293 sec   265 MBytes   111 Mbits/sec
+[129] 0.0000-20.0320 sec   272 MBytes   114 Mbits/sec
+[136] 0.0000-20.0287 sec   243 MBytes   102 Mbits/sec
+[165] 0.0000-19.9463 sec   219 MBytes  92.0 Mbits/sec
+[164] 0.0000-19.9449 sec   258 MBytes   109 Mbits/sec
+[149] 0.0000-20.0176 sec   237 MBytes  99.4 Mbits/sec
+[137] 0.0000-20.0300 sec   271 MBytes   114 Mbits/sec
+[141] 0.0000-20.0334 sec   266 MBytes   111 Mbits/sec
+[144] 0.0000-20.0296 sec   273 MBytes   114 Mbits/sec
+[131] 0.0000-20.0380 sec   316 MBytes   132 Mbits/sec
+[162] 0.0000-19.9501 sec   231 MBytes  96.9 Mbits/sec
+[154] 0.0000-20.0334 sec   232 MBytes  97.1 Mbits/sec
+[158] 0.0000-20.0280 sec   267 MBytes   112 Mbits/sec
+[150] 0.0000-20.0360 sec   269 MBytes   112 Mbits/sec
+[145] 0.0000-20.0304 sec   299 MBytes   125 Mbits/sec
+[128] 0.0000-20.0469 sec   305 MBytes   128 Mbits/sec
+[163] 0.0000-19.9552 sec   251 MBytes   106 Mbits/sec
+[138] 0.0000-20.0417 sec   333 MBytes   139 Mbits/sec
+[155] 0.0000-20.0538 sec   273 MBytes   114 Mbits/sec
+[160] 0.0000-20.0037 sec   252 MBytes   106 Mbits/sec
+[134] 0.0000-20.0518 sec   255 MBytes   107 Mbits/sec
+[139] 0.0000-20.0669 sec   283 MBytes   118 Mbits/sec
+[142] 0.0000-20.0659 sec   275 MBytes   115 Mbits/sec
+[152] 0.0000-20.1158 sec   310 MBytes   129 Mbits/sec
+[146] 0.0000-20.1267 sec   326 MBytes   136 Mbits/sec
+[167] 0.0000-20.0477 sec   212 MBytes  88.7 Mbits/sec
+[130] 0.0000-20.1369 sec   273 MBytes   114 Mbits/sec
+[166] 0.0000-20.0644 sec   255 MBytes   107 Mbits/sec
+[153] 0.0000-20.1784 sec   269 MBytes   112 Mbits/sec
+[161] 0.0000-20.1228 sec   217 MBytes  90.6 Mbits/sec
+[156] 0.0000-20.1883 sec   270 MBytes   112 Mbits/sec
+[148] 0.0000-20.2131 sec   240 MBytes  99.6 Mbits/sec
+[151] 0.0000-20.2249 sec   235 MBytes  97.3 Mbits/sec
+[157] 0.0000-20.3411 sec   304 MBytes   125 Mbits/sec
+[SUM] 0.0000-20.3629 sec  10.5 GBytes  4.42 Gbits/sec
+[168] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33508
+[ ID] Interval       Transfer     Bandwidth
+[168] 0.0000-20.0051 sec  9.85 GBytes  4.23 Gbits/sec
+[169] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 54832
+[170] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 54834
+[ ID] Interval       Transfer     Bandwidth
+[170] 0.0000-20.0119 sec  4.78 GBytes  2.05 Gbits/sec
+[169] 0.0000-20.0133 sec  5.01 GBytes  2.15 Gbits/sec
+[SUM] 0.0000-20.0131 sec  9.78 GBytes  4.20 Gbits/sec
+[171] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 47224
+[ ID] Interval       Transfer     Bandwidth
+[171] 0.0000-20.0072 sec  10.2 GBytes  4.37 Gbits/sec
+[172] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 59762
+[ ID] Interval       Transfer     Bandwidth
+[172] 0.0000-20.0052 sec  7.84 GBytes  3.36 Gbits/sec
+[173] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 47926
+[ ID] Interval       Transfer     Bandwidth
+[173] 0.0000-10.0063 sec  3.71 GBytes  3.18 Gbits/sec
+[174] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 39592
+[ ID] Interval       Transfer     Bandwidth
+[174] 0.0000-10.0061 sec  4.50 GBytes  3.87 Gbits/sec
+[175] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 35878
+[ ID] Interval       Transfer     Bandwidth
+[175] 0.0000-10.0038 sec  5.03 GBytes  4.32 Gbits/sec
+[176] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 35122
+[ ID] Interval       Transfer     Bandwidth
+[176] 0.0000-10.0071 sec  4.77 GBytes  4.09 Gbits/sec
+[177] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 39302
+[ ID] Interval       Transfer     Bandwidth
+[177] 0.0000-10.0065 sec  4.59 GBytes  3.94 Gbits/sec
+[178] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 46688
+[ ID] Interval       Transfer     Bandwidth
+[178] 0.0000-10.0055 sec  5.10 GBytes  4.38 Gbits/sec
+[179] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 42244
+[ ID] Interval       Transfer     Bandwidth
+[179] 0.0000-10.0055 sec  4.89 GBytes  4.20 Gbits/sec
+[180] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 37514
+[ ID] Interval       Transfer     Bandwidth
+[180] 0.0000-10.0066 sec  4.75 GBytes  4.08 Gbits/sec
+[181] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 59890
+[ ID] Interval       Transfer     Bandwidth
+[181] 0.0000-10.0045 sec  4.93 GBytes  4.23 Gbits/sec
+[182] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60080
+[ ID] Interval       Transfer     Bandwidth
+[182] 0.0000-10.0042 sec  5.03 GBytes  4.32 Gbits/sec
+[183] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 32820
+[ ID] Interval       Transfer     Bandwidth
+[183] 0.0000-20.0084 sec  9.55 GBytes  4.10 Gbits/sec
+[184] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 33054
+[drop] local 172.31.30.182 port 5001 connection with 205.210.31.64 port 61226 (bounce-back) (permit key fail)
+[drop] local 172.31.30.182 port 5001 connection with 205.210.31.64 port 61232 (bounce-back) (permit key fail)
+[ ID] Interval       Transfer     Bandwidth
+[184] 0.0000-20.0063 sec  9.37 GBytes  4.02 Gbits/sec
+[185] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36776
+[ ID] Interval       Transfer     Bandwidth
+[185] 0.0000-20.0060 sec  9.44 GBytes  4.05 Gbits/sec
+[186] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 49196
+[ ID] Interval       Transfer     Bandwidth
+[186] 0.0000-20.0049 sec  9.90 GBytes  4.25 Gbits/sec
+[187] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 50636
+[ ID] Interval       Transfer     Bandwidth
+[187] 0.0000-20.0068 sec  9.41 GBytes  4.04 Gbits/sec
+[188] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 34122
+[ ID] Interval       Transfer     Bandwidth
+[188] 0.0000-20.0053 sec  10.0 GBytes  4.31 Gbits/sec
+[189] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 40714
+[ ID] Interval       Transfer     Bandwidth
+[189] 0.0000-20.0051 sec  9.93 GBytes  4.26 Gbits/sec
+[190] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 52594
+[ ID] Interval       Transfer     Bandwidth
+[190] 0.0000-20.0133 sec  8.94 GBytes  3.84 Gbits/sec
+[191] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 52264
+[ ID] Interval       Transfer     Bandwidth
+[191] 0.0000-20.0063 sec  9.24 GBytes  3.97 Gbits/sec
+[192] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 54238
+[ ID] Interval       Transfer     Bandwidth
+[192] 0.0000-20.5281 sec  4.38 GBytes  1.83 Gbits/sec
+[193] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 44446
+[ ID] Interval       Transfer     Bandwidth
+[193] 0.0000-30.3953 sec   295 MBytes  81.4 Mbits/sec
+[194] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60296
+[ ID] Interval       Transfer     Bandwidth
+[194] 0.0000-30.4850 sec   296 MBytes  81.3 Mbits/sec
+[195] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 54316
+[ ID] Interval       Transfer     Bandwidth
+[195] 0.0000-30.4835 sec   296 MBytes  81.4 Mbits/sec
+[196] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 40708
+[ ID] Interval       Transfer     Bandwidth
+[196] 0.0000-30.4511 sec  2.38 GBytes   671 Mbits/sec
+[197] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 36734
+[ ID] Interval       Transfer     Bandwidth
+[197] 0.0000-30.5353 sec   296 MBytes  81.3 Mbits/sec
+[198] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 43306
+[ ID] Interval       Transfer     Bandwidth
+[198] 0.0000-30.4437 sec   295 MBytes  81.4 Mbits/sec
+[199] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 60560
+[ ID] Interval       Transfer     Bandwidth
+[199] 0.0000-30.5154 sec   711 MBytes   196 Mbits/sec
+[200] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 56664
+[ ID] Interval       Transfer     Bandwidth
+[200] 0.0000-30.3859 sec   295 MBytes  81.4 Mbits/sec
+[201] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 38082
+[ ID] Interval       Transfer     Bandwidth
+[201] 0.0000-30.5039 sec   296 MBytes  81.3 Mbits/sec
+[202] local 172.31.30.182 port 5001 connected with 13.49.226.121 port 46856
+[ ID] Interval       Transfer     Bandwidth
+[202] 0.0000-30.4835 sec   307 MBytes  84.4 Mbits/sec

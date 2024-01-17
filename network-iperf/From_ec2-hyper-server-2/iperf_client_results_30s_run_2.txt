@@ -1,0 +1,37 @@
+------------------------------------------------------------
+Client connecting to 13.49.226.121, TCP port 5001
+TCP window size: 85.0 KByte (default)
+------------------------------------------------------------
+[  1] local 172.31.30.182 port 39190 connected with 13.49.226.121 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-1.0000 sec   540 MBytes  4.53 Gbits/sec
+[  1] 1.0000-2.0000 sec   532 MBytes  4.46 Gbits/sec
+[  1] 2.0000-3.0000 sec   505 MBytes  4.24 Gbits/sec
+[  1] 3.0000-4.0000 sec   528 MBytes  4.42 Gbits/sec
+[  1] 4.0000-5.0000 sec   518 MBytes  4.35 Gbits/sec
+[  1] 5.0000-6.0000 sec   507 MBytes  4.25 Gbits/sec
+[  1] 6.0000-7.0000 sec   518 MBytes  4.34 Gbits/sec
+[  1] 7.0000-8.0000 sec   519 MBytes  4.35 Gbits/sec
+[  1] 8.0000-9.0000 sec   537 MBytes  4.50 Gbits/sec
+[  1] 9.0000-10.0000 sec   531 MBytes  4.45 Gbits/sec
+[  1] 10.0000-11.0000 sec   531 MBytes  4.46 Gbits/sec
+[  1] 11.0000-12.0000 sec   522 MBytes  4.38 Gbits/sec
+[  1] 12.0000-13.0000 sec   521 MBytes  4.37 Gbits/sec
+[  1] 13.0000-14.0000 sec   494 MBytes  4.15 Gbits/sec
+[  1] 14.0000-15.0000 sec   532 MBytes  4.46 Gbits/sec
+[  1] 15.0000-16.0000 sec   514 MBytes  4.31 Gbits/sec
+[  1] 16.0000-17.0000 sec   522 MBytes  4.38 Gbits/sec
+[  1] 17.0000-18.0000 sec   490 MBytes  4.11 Gbits/sec
+[  1] 18.0000-19.0000 sec   518 MBytes  4.34 Gbits/sec
+[  1] 19.0000-20.0000 sec   521 MBytes  4.37 Gbits/sec
+[  1] 20.0000-21.0000 sec   513 MBytes  4.30 Gbits/sec
+[  1] 21.0000-22.0000 sec   522 MBytes  4.38 Gbits/sec
+[  1] 22.0000-23.0000 sec   512 MBytes  4.30 Gbits/sec
+[  1] 23.0000-24.0000 sec   531 MBytes  4.45 Gbits/sec
+[  1] 24.0000-25.0000 sec   523 MBytes  4.39 Gbits/sec
+[  1] 25.0000-26.0000 sec   499 MBytes  4.19 Gbits/sec
+[  1] 26.0000-27.0000 sec   525 MBytes  4.41 Gbits/sec
+[  1] 27.0000-28.0000 sec   515 MBytes  4.32 Gbits/sec
+[  1] 28.0000-29.0000 sec   522 MBytes  4.38 Gbits/sec
+[  1] 29.0000-30.0000 sec   468 MBytes  3.93 Gbits/sec
+[  1] 0.0000-30.0135 sec  15.2 GBytes  4.34 Gbits/sec

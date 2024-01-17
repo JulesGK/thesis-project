@@ -1,0 +1,11 @@
+.main-footer {
+    padding: 1rem;
+}
+
+.main-footer-container {
+    text-align: center;
+}
+
+.main-footer-container a {
+    color: var(--black-color);
+}
